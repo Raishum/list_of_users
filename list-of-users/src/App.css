@@ -1,0 +1,119 @@
+
+.Header{
+  text-align: center;
+}
+
+.users {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+
+.user_id{
+  padding-bottom: 30px;
+}
+
+.section{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.button1{
+  background-color: #28a745;
+  color: white;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.button2{
+  background-color: #dc3545;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.button3{
+  background-color: #831af4;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.edit-form {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.edit-form h2, .edit-form h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+.input-field:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.button-group {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.save-button {
+  background-color: #28a745;
+  color: white;
+  margin-right: 10px;
+}
+
+.cancel-button {
+  background-color: #dc3545;
+  color: white;
+}
+
+.button:hover {
+  opacity: 0.9;
+}
+
+
+.ascending{
+  background-color: #28a745;
+  color: white;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.descending{
+  background-color: #dc3545;
+  color: white;
+  margin-bottom: 20px;
+}
